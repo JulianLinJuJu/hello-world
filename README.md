@@ -12,6 +12,6 @@ my first git repo
 
 ------------------------------------------------------
 Use terraform apply to provision infrastructure on AWS
-'terraform apply'
+`terraform apply`
 
 
