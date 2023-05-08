@@ -1,9 +1,9 @@
 # hello-world
 my first git repo
 
-#H1 First Helloworld readme
+# First Helloworld readme
 
-#H2 Testing different markdown elements
+## Testing different markdown elements
 *Test Test*
 
 1. Julian
